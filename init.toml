@@ -78,8 +78,3 @@ default_height = 30
   name = 'lsp'
   enabled_clients = ['pyright']
 
-# Other custom layer: vimwiki
-[[custom_plugins]]
-    repo = "vimwiki/vimwiki"
-    merged = false
-
